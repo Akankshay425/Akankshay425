@@ -25,11 +25,11 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
--c
--C++
 - Java
 - Python
-
+- C
+- C++
+- 
 ### 📚 Core Concepts
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -65,20 +65,6 @@
 - Includes constructors, inheritance, polymorphism
 - Clean and modular code structure
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akankshay425&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshay425&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌟 Open Source Goals (2026)
 
 - Contribute meaningful pull requests
@@ -92,7 +78,7 @@
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/yadav-akansha-rajesh-a24b94333/  
-📧 Email: your-email@example.com  
+📧 Email: akansharajeshyadav567@gmail.com 
 💻 GitHub: https://github.com/Akankshay425  
 
 ---
