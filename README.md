@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yadav Akansha Rajesh</h1>
+<h3 align="center">B.Tech CSE Student | DSA with C++ | Machine Learning Enthusiast | Open Source Learner</h3>
 
-<!--
-**Akankshay425/Akankshay425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Akankshay425">
+    <img src="https://komarev.com/ghpvc/?username=Akankshay425&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/yadav-akansha-rajesh-a24b94333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 2nd Year B.Tech Computer Science & Engineering Student (AKTU)  
+💻 Strong foundation in Data Structures, Algorithms & OOP  
+🤖 Exploring Machine Learning & Backend Development (Java)  
+🌱 Currently learning Open Source Contribution workflows  
+🎯 Goal: Crack GSoC & secure impactful internships  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+-c
+-C++
+- Java
+- Python
+
+### 📚 Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+
+### 🤖 Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn (Basics)
+
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Salary Prediction using Machine Learning
+- Built regression model using Scikit-Learn
+- Performed data preprocessing & feature engineering
+- Evaluated model accuracy and optimized performance
+
+### 🔹 DSA Practice Repository
+- Structured solutions categorized by topic
+- Covers arrays, recursion, searching, sorting
+- Focused on interview preparation
+
+### 🔹 Java OOPS Implementation
+- Demonstrates core OOP concepts
+- Includes constructors, inheritance, polymorphism
+- Clean and modular code structure
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akankshay425&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshay425&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 Open Source Goals (2026)
+
+- Contribute meaningful pull requests
+- Work on beginner-friendly issues
+- Improve documentation & testing
+- Apply for Google Summer of Code
+- Build real-world impactful projects
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/yadav-akansha-rajesh-a24b94333/  
+📧 Email: your-email@example.com  
+💻 GitHub: https://github.com/Akankshay425  
+
+---
+
+⭐ *“Consistency > Motivation. Build daily.”*
